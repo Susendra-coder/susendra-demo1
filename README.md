@@ -2,4 +2,4 @@
 this is my first repository
 <br>
 
-welcome to git
+welcome to git hub
